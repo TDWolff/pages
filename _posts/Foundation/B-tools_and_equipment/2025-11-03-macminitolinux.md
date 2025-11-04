@@ -51,10 +51,13 @@ permalink: /foundation/b-tools-and-equipment/macminitolinux/
 
     pre {
         background: #f7f7f7;
-        border: 1px solid #ddd;
         padding: 10px;
         border-radius: 5px;
         overflow-x: auto;
+    }
+
+    code {
+        border: none !important;
     }
 </style>
 
