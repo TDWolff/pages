@@ -109,10 +109,6 @@ sudo reboot</code></pre>
             </li>
         </ol>
 
-        <p>Once online, clean and update:</p>
-        <pre><code>sudo rm /etc/apt/sources.list.d/usb.list
-sudo apt update && sudo apt upgrade</code></pre>
-
         <h3>Install Apps</h3>
         <p>Run the following script:  
             <a href="https://gist.githubusercontent.com/TDWolff/b77194acea8c2d8bb476c136250e497c/raw/b90b87fcfb224c1fbb9d55b057c79e398210d6ab/apps_ubuntu.sh" target="_blank">apps_ubuntu.sh</a>
@@ -124,7 +120,7 @@ sudo apt update && sudo apt upgrade</code></pre>
         <h2>Kali Linux Setup</h2>
         <p>For advanced users or security professionals, Kali Linux is a great choice for testing and system auditing with advanced customizability.</p>
 
-        <p><strong>OS:</strong> Kali Linux — <a href="https://www.kali.org/get-kali/#kali-installer-images" target="_blank">Download Installer Images</a></p>
+        <p><strong>OS:</strong> Kali Linux — <a href="https://www.kali.org/get-kali/#kali-installer-images" target="_blank">Download Installer Image</a></p>
 
         <h3>Steps:</h3>
         <ol>
